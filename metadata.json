@@ -1,0 +1,6 @@
+{
+  "name": "Comoros Consulate Uganda",
+  "description": "The official website of the Consulate of the Union of the Comoros in the Republic of Uganda, providing visa services, citizen assistance, and fostering diplomatic relations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
